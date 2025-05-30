@@ -40,7 +40,7 @@ cd server/
 node index.js
 ```
 
-By default, the server runs at [http://localhost:8000](http://localhost:8000) (or whatever port is specified in `index.js`).
+By default, the server runs at [http://localhost:4000](http://localhost:4000) (or whatever port is specified in `index.js`).
 
 ---
 
