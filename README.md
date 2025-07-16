@@ -62,3 +62,6 @@ my-project/
 ---
 ## 📌 Notes
 - It's recommended to run the client and server in separate terminal windows.
+
+## ⚠️ Warning
+- The requirements.txt file for Python dependencies has not been published yet. Please proceed with caution and install packages manually if needed.
